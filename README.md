@@ -16,9 +16,9 @@ The analysis was designed for a non-technical audience, particularly policy-make
 
 The UNAIDS 90-90-90 targets aimed to ensure:
 
-**90% Diagnosed:** 90% of people living with HIV know their HIV status.
-**90% on Treatment:** 90% of diagnosed individuals receive sustained antiretroviral therapy (ART).
-**90% Virally Suppressed:** 90% of people on ART achieve viral suppression (undetectable virus levels).
+- **90% Diagnosed:** 90% of people living with HIV know their HIV status.
+- **90% on Treatment:** 90% of diagnosed individuals receive sustained antiretroviral therapy (ART).
+- **90% Virally Suppressed:** 90% of people on ART achieve viral suppression (undetectable virus levels).
 
 
 ---
