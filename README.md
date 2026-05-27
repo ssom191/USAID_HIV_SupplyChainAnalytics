@@ -36,15 +36,6 @@ The UNAIDS 90-90-90 targets aimed to ensure:
 
 ---
 
-## Project Structure
-
-* `HIV_Shipments_Analysis_Dashboard.pbix` — Power BI dashboard
-* `/Datasets` — Raw and merged datasets used for analysis
-* `/PCA_Analysis` — R scripts for PCA and clustering analysis
-* `/Visuals` — Dashboard screenshots and supporting visuals
-
----
-
 ## Key Metrics for Alignment
 
 * Testing Access: Number of HIV Rapid Diagnostic Tests shipped to support the first 90.
